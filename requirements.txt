@@ -1,0 +1,9 @@
+ipython
+pandas
+beautifulsoup4
+matplotlib
+jinja2
+pyzmq
+sphinx
+pygments
+-e git://github.com/cmorgan/pysentiment.git#egg=pysentiment
